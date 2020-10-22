@@ -1,5 +1,5 @@
 # askit
-ASKit App - where u can post a question a get response by developer members
+ASKit App - where u can post a question and get response by developer members
 
 
 ABOUT
